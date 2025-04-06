@@ -61,13 +61,13 @@ body::after {
 body::before {
   top: 0;
   left: 0;
-  background-image: url('https://i.ibb.co/7VVcSjd/peony-top.png');
+  background-image: url('https://sun6-23.userapi.com/impf/c846523/v846523427/174d57/4yZdd4lyUoA.jpg?size=750x750&quality=96&sign=8555cfa99132a1dcad507a5ef646dd82&c_uniq_tag=uvqmxbVFcav2kOWCV7kHvo3gdk0M4T_FJBciXwE0scE&type=album');
 }
 
 body::after {
   bottom: 0;
   right: 0;
-  background-image: url('https://i.ibb.co/Fsh9hfZ/peony-bottom.png');
+  background-image: url('https://sun6-23.userapi.com/impf/c846523/v846523427/174d57/4yZdd4lyUoA.jpg?size=750x750&quality=96&sign=8555cfa99132a1dcad507a5ef646dd82&c_uniq_tag=uvqmxbVFcav2kOWCV7kHvo3gdk0M4T_FJBciXwE0scE&type=album');
   transform: scaleX(-1);
 }
 
